@@ -49,7 +49,6 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 | March version(stable)                                                                                                                                                                                  | Installed version(install)                                                                                                                                                                               | Newest version(nightly)                                                                                                                                                                                        | Deforum prvate                                                                                                                                                                                      | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/stable/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-install.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/install/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-nightly.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/nightly/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/deforum/absolutereality_webui_colab.ipynb) | [AbsoluteReality](https://civitai.com/models/81458/absolutereality)                    |  | 실사                      |
-                      |
 
 ---
 
@@ -69,15 +68,12 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 > **Install only basic WebUI+ControlNet**  
 
-<details>
-  <summary>Expand </summary>
-
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/simple/absolutereality_webui_colab.ipynb) | [AbsoluteReality](https://civitai.com/models/81458/absolutereality)                    |  | 실사                      |
 
 
-</details>
+
 
 ---
 
@@ -87,15 +83,12 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 > With the recent restrictions on sd-webui Collaboration, remote-related provisions were added to the terms and conditions, so I prepared a version that runs without remote (tunneling).
 > **Please click to expand**
 
-<details>
-  <summary>Expand </summary>
   
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/direct/aurora_webui_colab.ipynb) | [Aurora](https://civitai.com/models/40199/aurora)                    |  | 범용                      |
 
 
-</details>
 
 ---
 
@@ -106,15 +99,13 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 > **AnimateDiff**  
 > **Please click to expand**
 
-<details>
-  <summary>Expand </summary>
+
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/torch2/aurora_webui_colab.ipynb) | [Aurora](https://civitai.com/models/40199/aurora)                    |  | 범용                      |
 
 
-</details>
 
 ---
 
@@ -128,8 +119,8 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/comfyui_sdxl/anime_art_diffusion_xl_webui_colab.ipynb) | [AnimeArtDiffusion XL](https://civitai.com/models/117259/anime-art-diffusion-xl)                    |  | 2D                      |
 
 
-<details>
-  <summary>Expand  (SD1.5 Models)</summary>
+
+
 
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
@@ -137,7 +128,7 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/comfyui/absolutereality_webui_colab.ipynb) | [AbsoluteReality](https://civitai.com/models/81458/absolutereality)                    |  | 실사                      |
 
 
-</details>
+
 
 ---
 
@@ -153,15 +144,13 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 > **Please click to expand**
 
-<details>
-  <summary>Expand</summary>
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/api/aurora_webui_colab.ipynb) | [Aurora](https://civitai.com/models/40199/aurora)                    |  | 범용                      |
 
 
-</details>
+
 
 ---
 
