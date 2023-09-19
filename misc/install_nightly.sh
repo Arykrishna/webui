@@ -29,12 +29,15 @@ git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete ./extensions
 #git clone https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 ./extensions/ultimate-upscale
 git clone https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris ./extensions/lycoris
 
-git clone https://github.com/neuralninja22/images-browser ./extensions/images-browser
+#git clone https://github.com/neuralninja22/images-browser ./extensions/images-browser
 #git clone https://github.com/kohya-ss/sd-webui-additional-networks ./extensions/additional-networks
 git clone https://github.com/picobyte/stable-diffusion-webui-wd14-tagger ./extensions/wd14-tagger
 #git clone https://github.com/yankooliveira/sd-webui-photopea-embed ./extensions/photopea-embed
 #git clone https://github.com/ninjaneural/video-util ./extensions/video-util
 
+git clone https://github.com/zanllp/sd-webui-infinite-image-browsing ./extensions/sd-infinite-browsing
+git clone https://github.com/Physton/sd-webui-prompt-all-in-one ./extensions/prompt-allinone
+git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler ./extensions/agent-scheduler
 #git clone https://github.com/fkunn1326/openpose-editor ./extensions/openpose-editor
 #git clone https://github.com/hnmr293/posex ./extensions/posex
 #git clone https://github.com/fishslot/video_loopback_for_webui ./extensions/video_loopback
