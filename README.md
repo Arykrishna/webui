@@ -51,7 +51,6 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/stable/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-install.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/install/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-nightly.svg)](https://colab.research.google.com/github/Arykrishna/webui/blob/master/nightly/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/deforum/absolutereality_webui_colab.ipynb) | [AbsoluteReality](https://civitai.com/models/81458/absolutereality)                    |  | 실사                      |
 
 
-(https://colab.research.google.com/github/Arykrishna/webui/blob/master/nightly/absolutereality_webui_colab.ipynb)
 ---
 
 ## SD-WebUI SDXL
