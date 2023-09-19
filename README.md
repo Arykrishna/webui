@@ -1,6 +1,6 @@
 YouTube Channel https://www.youtube.com/@neuralninja-ai
 
-🚨 중요 🚨 <br/> Stable Diffusion WebUI를 Colab **Restrictions have begun when using the free tier** <br/>
+🚨 important 🚨 <br/> Stable Diffusion WebUI Colab **Restrictions have begun when using the free tier** <br/>
 
 <details>
   <summary>Read more</summary>
@@ -9,44 +9,44 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 # 2023-06-28 I think a measure to disconnect when a warning window appears has been added -> Modifications have been made to prevent the warning window from appearing.
 # 2023-06-28 (Saya pikir tindakan untuk memutuskan sambungan ketika jendela peringatan muncul telah ditambahkan -> Modifikasi telah dilakukan untuk mencegah jendela peringatan muncul.)
-[Colab PM 트윗](https://twitter.com/thechrisperry/status/1649189902079381505)
+[Colab PM Twitter](https://twitter.com/thechrisperry/status/1649189902079381505)
 
 > GPU go brrrrrrr
 >
 > We prioritize interactive laptop computing for free tier users; Stable Diffusion WebUI usage has grown significantly;  
 > Our team's budget cannot support increased usage.
 
-[Colab PM 레딧글](https://old.reddit.com/r/StableDiffusion/comments/12t8tc7/is_colab_going_to_start_banning_people_who_use_it/jh2rwe1/)
+[Colab PM Reddit](https://old.reddit.com/r/StableDiffusion/comments/12t8tc7/is_colab_going_to_start_banning_people_who_use_it/jh2rwe1/)
 
-> Colab PM입니다.
+> Colab PM Hiden.
 >
-> 죄송합니다. 저희는 무료 티어 사용자를 위한 대화형 노트북 컴퓨팅에 우선순위를 두고 있고, webui는 단지 Colab을 간편한 무료 GPU로 사용하고 있습니다.  
-> 저희는 쿨하게 대처하려고 노력하지만 최근 사용량이 실제로 증가하고 있으며 비용에서 매우 눈에 띄게 늘어나고 있습니다. 저희 예산으로는 할 수 있는 일이 한정되어 있어서요!
+> sorry. We're prioritizing interactive laptop computing for free tier users, and webui simply uses Colab as a handy free GPU.  
+> We try to play it cool, but our usage has actually been increasing recently and we are seeing a very noticeable increase in our costs. There's only so much we can do with our budget!
 >
 > https://research.google.com/colaboratory/faq.html#limitations-and-restrictions
 >
-> 그래서 첫 번째 단계로 무료 티어에 경고를 추가했습니다.
+> So as a first step, we added warnings to the free tier.
 
-# 유료(프로)는 일단 제한할 계획은 없다고해요
+# They say there are no plans to restrict paid (Pro) services for now.
 
-[Colab PM 트윗](https://twitter.com/thechrisperry/status/1649196140909428736)
+[Colab PM Tweeter](https://twitter.com/thechrisperry/status/1649196140909428736)
 
-> 유료 요금제에서 webui 사용을 제한할 계획은 없습니다.
+> On paid plans webui There are no plans to limit use.
 
 </details>
 
 ---
 
-# SD-WebUI Colab 목록
+# SD-WebUI Colab Google integration
 
-## 구글연동 + 멀티컨트롤넷 기본설정
+## Google integration + Multi Control Net Basic Settings
 
-> **설치버전(install) 추가. 최초 한번만 설치**  
-> **Deforum전용버전 추가**  
-> **3월버전(stable) v1.2.1**  
-> **최신버전(nightly) 버전선택추가 ~v1.6.0**  
+> **Installed version(install) addition. Install only once for the first time**  
+> **Deforum Add exclusive version**  
+> **March version (stable) v1.2.1**  
+> **Newest version(nightly) Add version selection ~v1.6.0**  
 
-| 3월버전(stable)                                                                                                                                                                                  | 설치버전(install)                                                                                                                                                                               | 최신(nightly)                                                                                                                                                                                        | Deforum전용                                                                                                                                                                                      | Model                                                                                  | VAE  | Memo                    |
+| March version(stable)                                                                                                                                                                                  | Installed version(install)                                                                                                                                                                               | Newest version(nightly)                                                                                                                                                                                        | Deforum prvate                                                                                                                                                                                      | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/stable/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-install.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/install/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-nightly.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/nightly/absolutereality_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/deforum/absolutereality_webui_colab.ipynb) | [AbsoluteReality](https://civitai.com/models/81458/absolutereality)                    |  | 실사                      |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/stable/abyssbasil_0_5_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-install.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/install/abyssbasil_0_5_webui_colab.ipynb) | [![Open In Colab](https://raw.githubusercontent.com/ninjaneural/webui/master/icons/colab-badge-nightly.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/nightly/abyssbasil_0_5_webui_colab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/deforum/abyssbasil_0_5_webui_colab.ipynb) | [AbyssBasil2]()                    | 선택 | 2.5D                      |
@@ -107,8 +107,8 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 ## SD-WebUI SDXL
 
-> 구글드라이브 연동  
-> 컨트롤넷 추가  
+> Google Drive integration  
+> Add controlnet 
 > v1.6.0  
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
@@ -137,12 +137,12 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 ---
 
-## 심플(simple) 버전
+## Simple(simple) version
 
-> **기본 WebUI+ControlNet만 설치**  
+> **Install only basic WebUI+ControlNet**  
 
 <details>
-  <summary>펼쳐보기</summary>
+  <summary>Expand </summary>
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
@@ -205,14 +205,14 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 ---
 
-## 터널링없이 직접실행 버전
+## Direct execution version without tunneling
 
-> **코랩내에 직접실행**  
-> 이번 sd-webui 코랩제한 조치하면서 약관에 remote 관련사항이 추가되서 remote(터널링)없이 실행되는 버전을 준비해봤어요  
-> **펼쳐보기를 클릭해주세요**
+> **Execute directly within Colab**  
+> With the recent restrictions on sd-webui Collaboration, remote-related provisions were added to the terms and conditions, so I prepared a version that runs without remote (tunneling).
+> **Please click to expand**
 
 <details>
-  <summary>펼쳐보기</summary>
+  <summary>Expand </summary>
   
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
@@ -273,15 +273,15 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 ---
 
-## WebUI (AnimateDiff 버전)
+## WebUI (AnimateDiff version)
 
 > **torch2.0+cuda118**  
 > **v1.5.2**  
 > **AnimateDiff**  
-> **펼쳐보기를 클릭해주세요**
+> **Please click to expand**
 
 <details>
-  <summary>펼쳐보기</summary>
+  <summary>Expand </summary>
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
@@ -345,7 +345,7 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 ## ComfyUI
 
 > **SDXL 1.0**  
-> **펼쳐보기를 클릭해주세요**
+> **Please click to expand**
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
@@ -372,7 +372,7 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/comfyui_sdxl/zavychroma_xl_webui_colab.ipynb) | [ZavyChromaXL](https://civitai.com/models/119229/zavychromaxl)                    |  | 실사                      |
 
 <details>
-  <summary>펼쳐보기 (SD1.5모델들)</summary>
+  <summary>Expand  (SD1.5 Models)</summary>
 
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
@@ -446,10 +446,10 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 ## SD-WebUI API (TemporalNet2)
 
-> **펼쳐보기를 클릭해주세요**
+> **Please click to expand**
 
 <details>
-  <summary>펼쳐보기</summary>
+  <summary>Expand</summary>
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
@@ -510,35 +510,35 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 ## AnimateDiff
 
-[페이지 이동](https://github.com/ninjaneural/webui/tree/master/animatediff)
+[Go to page](https://github.com/ninjaneural/webui/tree/master/animatediff)
 
 ---
 
-## 유용한 사이트
+## useful site
 
-- 오픈포즈 에디터 (fork버전)
+- Open pose editor (fork version)
 
   [https://ninjaneural.github.io/](https://ninjaneural.github.io)
 
-- 온라인 포토샵 (photopea)
+- Online photoshop (photopea)
 
   [https://www.photopea.com](https://www.photopea.com/)
 
-- 컨트롤넷 공유사이트
+- Controlnet sharing site
 
   [https://controlnetposes.com/](https://controlnetposes.com/)
 
-- 컨트롤넷 세그먼트
+- Controlnet segment
 
   [https://huggingface.co/spaces/shi-labs/OneFormer](https://huggingface.co/spaces/shi-labs/OneFormer)
 
-## 익스텐션
+## extension 
 
-- ddetailer 수정버전 (wildcard 오류수정, mmdet 버전수정)
+- ddetailer 수정버전 (wildcard Error correction, mmdet Version modification)
   [https://github.com/ninjaneural/ddetailer](https://github.com/ninjaneural/ddetailer)
 
-- segment anything 수정버전 (inpaint mask 추가)
+- segment anything revised version (add inpaint mask)
   [https://github.com/ninjaneural/sd-webui-segment-anything](https://github.com/ninjaneural/sd-webui-segment-anything)
 
-- 간단한 비디오툴 ffmpeg
+- Simple video tool ffmpeg
   [https://github.com/ninjaneural/sd-webui-video-util](https://github.com/ninjaneural/sd-webui-video-util)
