@@ -1,20 +1,20 @@
-유튜브채널 https://www.youtube.com/@neuralninja-ai
+YouTube Channel https://www.youtube.com/@neuralninja-ai
 
-🚨 중요 🚨 <br/> Stable Diffusion WebUI를 Colab **무료 티어**에서 사용시 제한조치가 시작되었어요 <br/>
+🚨 중요 🚨 <br/> Stable Diffusion WebUI를 Colab **Restrictions have begun when using the free tier** <br/>
 
 <details>
-  <summary>자세히보기</summary>
+  <summary>Read more</summary>
 
-# 지금은 첫번째 단계로 경고창만 추가되었어요. 앞으로 제한이나 제재조치가 있을 수 있을거 같아요
+# Currently, only a warning window has been added as a first step. I think there may be restrictions or sanctions in the future.
 
-# 2023-06-28 경고창이 뜰경우 연결끊김 조치가 추가된거 같아요 -> 경고창이 안뜨게 수정조치
-
+# 2023-06-28 I think a measure to disconnect when a warning window appears has been added -> Modifications have been made to prevent the warning window from appearing.
+# 2023-06-28 (Saya pikir tindakan untuk memutuskan sambungan ketika jendela peringatan muncul telah ditambahkan -> Modifikasi telah dilakukan untuk mencegah jendela peringatan muncul.)
 [Colab PM 트윗](https://twitter.com/thechrisperry/status/1649189902079381505)
 
 > GPU go brrrrrrr
 >
-> 우리는 무료 티어 사용자를 위한 대화형 노트북 컴퓨팅을 우선시합니다; Stable Diffusion WebUI 사용이 매우 커졌습니다;  
-> 우리 팀의 예산으로는 사용량 증가를 지원할 수 없습니다.
+> We prioritize interactive laptop computing for free tier users; Stable Diffusion WebUI usage has grown significantly;  
+> Our team's budget cannot support increased usage.
 
 [Colab PM 레딧글](https://old.reddit.com/r/StableDiffusion/comments/12t8tc7/is_colab_going_to_start_banning_people_who_use_it/jh2rwe1/)
 
