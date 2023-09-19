@@ -148,7 +148,7 @@ YouTube Channel https://www.youtube.com/@neuralninja-ai
 
 | Colab                                                                                                                                                                                            | Model                                                                                  | VAE  | Memo                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---- | ----------------------- |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/api/aurora_webui_colab.ipynb) | [Aurora](https://civitai.com/models/40199/aurora)                    |  | 범용                      |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninjaneural/webui/blob/master/api/aurora_webui_colab.ipynb) |        
 
 
 
