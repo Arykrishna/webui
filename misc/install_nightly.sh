@@ -85,5 +85,5 @@ if [ $2 != "v1.6.0" ]; then
 fi
 
 # MENDOWNLOAD CONFIG.JSON
-wget https://raw.githubusercontent.com/Arykrishna/webui/master/misc/config.json -O ./config.json
+#wget https://raw.githubusercontent.com/Arykrishna/webui/master/misc/config.json -O ./config.json
 wget https://raw.githubusercontent.com/Arykrishna/webui/master/misc/sampler/sd_samplers_kdiffusion.py -O ./modules/sd_samplers_kdiffusion.py
