@@ -84,4 +84,5 @@ if [ $2 != "v1.6.0" ]; then
   sed -i -e "/        prepare_environment()/a\        os.system(f\\\"\"\"sed -i -e \"s/dict()))/dict())).cuda()/g\" /content/$1/repositories/stable-diffusion-stability-ai/ldm/util.py\"\"\")" /content/$1/launch.py
 fi
 
-wget https://raw.githubusercontent.com/ninjaneural/webui/master/misc/config.json -O ./config.json
+# MENDOWNLOAD CONFIG.JSON
+wget https://raw.githubusercontent.com/Arykrishna/webui/master/misc/config.json -O ./config.json
