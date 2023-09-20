@@ -14,15 +14,23 @@ if [ $2 == True ]; then
   mkdir /content/$1/models/Lora
   mkdir /content/$1/models/LyCORIS
   mkdir /content/$1/models/hypernetworks
+  
+  # MENGHAPUS
   rm /content/$1/embeddings/google
   rm /content/$1/models/Stable-diffusion/google
   rm /content/$1/models/Lora/google
   rm /content/$1/models/LyCORIS/google
   rm /content/$1/models/hypernetworks/google
   rm /content/$1/outputs
+  
+  # MEMINDAHKAN OUTPUT DARI DRIVE KE COLAB
   mv /content/$1/outputs /content/$1/outputs_backup
   rm /content/$1/extensions/sd-dynamic-prompts/wildcards
+
+  # MEMINDAHKAN FILE WLIDCARD DARI DRIVE KE COLAB
   mv /content/$1/extensions/sd-dynamic-prompts/wildcards /content/$1/extensions/sd-dynamic-prompts/wildcards_backup
+
+  # MEMBUAT SHORTCUT KE COLAB
   ln -s /content/drive/MyDrive/$3/embedding /content/$1/embeddings/google
   ln -s /content/drive/MyDrive/$3/checkpoint /content/$1/models/Stable-diffusion/google
   ln -s /content/drive/MyDrive/$3/lora /content/$1/models/Lora/google
