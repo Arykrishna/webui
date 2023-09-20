@@ -40,13 +40,13 @@ if [ $2 == True ]; then
   ln -s /content/drive/MyDrive/$3/wildcards /content/$1/extensions/sd-dynamic-prompts/wildcards
 
   # CONFIG.JSON
-  !rm /content/$1/config.json
-  !ln -s /content/drive/MyDrive/$3/json/config.json /content/$1
+  rm /content/$1/config.json
+  ln -s /content/drive/MyDrive/$3/json/config.json /content/$1
 
   #POSE FOR CONTROLNET BATCH
-  !ln -s /content/drive/MyDrive/$3/pose /content/$1
+  ln -s /content/drive/MyDrive/$3/pose /content/$1
 
   #[EXTENSION] ALL IN ONE PROMPT
-  !ln -s /content/drive/MyDrive/$3/extensions_prompt_all_in_one/custom.yaml /content/$1/extensions/prompt-allinone/group_tags/
+  ln -s /content/drive/MyDrive/$3/extensions_prompt_all_in_one/custom.yaml /content/$1/extensions/prompt-allinone/group_tags/
 
 fi
