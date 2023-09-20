@@ -38,6 +38,7 @@ git clone https://github.com/picobyte/stable-diffusion-webui-wd14-tagger ./exten
 #git clone https://github.com/zanllp/sd-webui-infinite-image-browsing ./extensions/sd-infinite-browsing
 git clone https://github.com/Physton/sd-webui-prompt-all-in-one ./extensions/prompt-allinone
 git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler ./extensions/agent-scheduler
+git clone https://github.com/shirayu/sd-webui-enable-checker ./extensions/enable-checker
 #git clone https://github.com/fkunn1326/openpose-editor ./extensions/openpose-editor
 #git clone https://github.com/hnmr293/posex ./extensions/posex
 #git clone https://github.com/fishslot/video_loopback_for_webui ./extensions/video_loopback
