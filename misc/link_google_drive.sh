@@ -43,6 +43,14 @@ if [ $2 == True ]; then
   rm /content/$1/config.json
   ln -s /content/drive/MyDrive/$3/json/config.json /content/$1
 
+  # UI-CONFIG.JSON
+  rm /content/$1/ui-config.json
+  ln -s /content/drive/MyDrive/$3/json/ui-config.json /content/$1
+
+  # STYLE.CSV
+  rm /content/$1/styles.csv
+  ln -s /content/drive/MyDrive/$3/json/styles.csv /content/$1
+
   #POSE FOR CONTROLNET BATCH
   ln -s /content/drive/MyDrive/$3/pose /content/$1
 
