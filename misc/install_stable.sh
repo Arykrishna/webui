@@ -42,11 +42,11 @@ git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/$1/
 #git clone https://github.com/ninjaneural/mov2mov /content/$1/extensions/mov2mov
 #git clone https://github.com/ninjaneural/depth-lib /content/$1/extensions/depth-lib
 
-git clone https://github.com/zanllp/sd-webui-infinite-image-browsing ./extensions/sd-infinite-browsing
-git clone https://github.com/s0md3v/sd-webui-roop ./extensions/sd-webui-roop
-git clone https://github.com/Physton/sd-webui-prompt-all-in-one ./extensions/prompt-allinone
-git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler ./extensions/agent-scheduler
-git clone https://github.com/shirayu/sd-webui-enable-checker ./extensions/enable-checker
+git clone https://github.com/zanllp/sd-webui-infinite-image-browsing /content/$1/extensions/sd-infinite-browsing
+git clone https://github.com/s0md3v/sd-webui-roop /content/$1/extensions/sd-webui-roop
+git clone https://github.com/Physton/sd-webui-prompt-all-in-one /content/$1/extensions/prompt-allinone
+git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler /content/$1/extensions/agent-scheduler
+#git clone https://github.com/shirayu/sd-webui-enable-checker /content/$1/extensions/enable-checker
 
 if [ $2 == True ]; then
   aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_openpose_fp16.safetensors -d /content/$1/extensions/controlnet/models -o control_v11p_sd15_openpose_fp16.safetensors
