@@ -16,11 +16,11 @@ if [ $2 == True ]; then
   mkdir /content/$1/models/hypernetworks
   
   # MENGHAPUS
-  rm /content/$1/embeddings/google
-  rm /content/$1/models/Stable-diffusion/google
-  rm /content/$1/models/Lora/google
-  rm /content/$1/models/LyCORIS/google
-  rm /content/$1/models/hypernetworks/google
+  rm /content/$1/embeddings
+  rm /content/$1/models/Stable-diffusion
+  rm /content/$1/models/Lora
+  rm /content/$1/models/LyCORIS
+  rm /content/$1/models/hypernetworks
   rm /content/$1/outputs
   
   # MEMINDAHKAN OUTPUT DARI DRIVE KE COLAB
