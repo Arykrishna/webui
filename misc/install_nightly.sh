@@ -1,5 +1,8 @@
 pip install -q xformers==0.0.20 triton==2.0.0 -U
 
+#ROOP REQUIRMENT
+pip install insightface==0.7.3
+
 if [ $4 == True ]; then
   pip install -U openmim
   mim install mmcv>=2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.0.0/index.html
