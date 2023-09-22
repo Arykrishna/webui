@@ -96,5 +96,5 @@ fi
 # MENDOWNLOAD CONFIG.JSON
 #wget https://raw.githubusercontent.com/Arykrishna/webui/master/misc/config.json -O ./config.json
 wget https://raw.githubusercontent.com/Arykrishna/webui/master/misc/sampler/sd_samplers_kdiffusion.py -O ./modules/sd_samplers_kdiffusion.py
-mkdir /content/$1/models/insightface
-wget https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx -P ./models/insightface/
+mkdir /content/$1/models/roop
+wget https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx -P ./models/roop/
