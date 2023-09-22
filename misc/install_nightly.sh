@@ -39,11 +39,11 @@ git clone https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris ./extensions/
 git clone https://github.com/zanllp/sd-webui-infinite-image-browsing ./extensions/sd-infinite-browsing
 #git clone https://github.com/s0md3v/roop ./extensions/sd-webui-roop
 
-#git clone https://github.com/Gourieff/sd-webui-reactor ./extensions/sd-webui-reactor
+git clone https://github.com/Gourieff/sd-webui-reactor ./extensions/sd-webui-reactor
 #REACTOR PROBLEM SOLVE
-python -m pip install -U pip
-pip uninstall -y onnx onnxruntime onnxruntime-gpu onnxruntime-silicon onnxruntime-extensions
-pip install onnx==1.14.1 onnxruntime==1.15.1
+#python -m pip install -U pip
+#pip uninstall -y onnx onnxruntime onnxruntime-gpu onnxruntime-silicon onnxruntime-extensions
+#pip install onnx==1.14.1 onnxruntime==1.15.1
 
 git clone https://github.com/Physton/sd-webui-prompt-all-in-one ./extensions/prompt-allinone
 git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler ./extensions/agent-scheduler
