@@ -37,7 +37,7 @@ git clone https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris ./extensions/
 #git clone https://github.com/ninjaneural/video-util ./extensions/video-util
 
 git clone https://github.com/zanllp/sd-webui-infinite-image-browsing ./extensions/sd-infinite-browsing
-git clone https://github.com/s0md3v/roop ./extensions/roop
+git clone https://github.com/s0md3v/roop ./extensions/sd-webui-roop
 
 #git clone https://github.com/Gourieff/sd-webui-reactor ./extensions/sd-webui-reactor
 #REACTOR PROBLEM SOLVE
