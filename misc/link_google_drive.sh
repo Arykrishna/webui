@@ -14,6 +14,7 @@ if [ $2 == True ]; then
   mkdir /content/$1/models/Lora
   mkdir /content/$1/models/LyCORIS
   mkdir /content/$1/models/hypernetworks
+  mkdir /content/$1/models/insightface
   
   # MENGHAPUS
   rm /content/$1/embeddings
