@@ -1,6 +1,11 @@
 pip install -q xformers==0.0.20 triton==2.0.0 -U
 #pip install insightface==0.7.3
 
+#REACTOR PROBLEM SOLVE
+python -m pip install -U pip
+pip uninstall -y onnx onnxruntime onnxruntime-gpu onnxruntime-silicon onnxruntime-extensions
+pip install onnx==1.14.1 onnxruntime==1.15.1
+
 if [ $4 == True ]; then
   pip install -U openmim
   mim install mmcv>=2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.0.0/index.html
@@ -40,10 +45,7 @@ git clone https://github.com/zanllp/sd-webui-infinite-image-browsing ./extension
 #git clone https://github.com/s0md3v/roop ./extensions/sd-webui-roop
 
 git clone https://github.com/Gourieff/sd-webui-reactor ./extensions/sd-webui-reactor
-#REACTOR PROBLEM SOLVE
-#python -m pip install -U pip
-#pip uninstall -y onnx onnxruntime onnxruntime-gpu onnxruntime-silicon onnxruntime-extensions
-#pip install onnx==1.14.1 onnxruntime==1.15.1
+
 
 git clone https://github.com/Physton/sd-webui-prompt-all-in-one ./extensions/prompt-allinone
 git clone https://github.com/ArtVentureX/sd-webui-agent-scheduler ./extensions/agent-scheduler
