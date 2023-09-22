@@ -14,9 +14,9 @@ if [ $2 == True ]; then
   mkdir /content/$1/models/Lora
   mkdir /content/$1/models/LyCORIS
   mkdir /content/$1/models/hypernetworks
-  mkdir /content/$1/models/insightface
+  
   #wget https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx -O /content/$1/models/insightface
-  wget --quiet https://huggingface.co/henryruhs/roop/resolve/main/inswapper_128.onnx -P /content/$1/models/insightface
+  #wget --quiet https://huggingface.co/henryruhs/roop/resolve/main/inswapper_128.onnx -P /content/$1/models/insightface
   
   # MENGHAPUS
   rm /content/$1/embeddings
